@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/juna1013/bin/textbook/standard_book/chapter18/18-1'
+relocations:     []
+...
